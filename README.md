@@ -1,4 +1,4 @@
-# 🎧 Personal Spotify Wrapped (Lite Mode)
+# 🎧 Personal Spotify Wrapped
 
 A clean, fast, and fully local recreation of **Spotify Wrapped** — built using Python, Pandas, and Streamlit.  
 This project fetches your listening data using the Spotify Web API, processes it via an ETL pipeline, and visualizes insights using a stylish neon-wrapped dashboard.
